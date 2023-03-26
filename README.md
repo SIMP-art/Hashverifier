@@ -26,7 +26,7 @@ or using compare mode by
 hashcheck compare
 ```
 > Q: Why I made this?
-A: cuz I want to check hash sum of file but I'm too lazy to open linux and use sha256sum
+> A: cuz I want to check hash sum of file but I'm too lazy to open linux and use sha256sum
 
 ## Support Me
 If you found my work helpful and would like to support me, you can donate using the following crypto addresses:
